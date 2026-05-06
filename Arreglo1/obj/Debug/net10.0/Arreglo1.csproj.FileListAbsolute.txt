@@ -1,0 +1,15 @@
+C:\Grupo6ProgramacionCS\Arreglo1\bin\Debug\net10.0\Arreglo1.exe
+C:\Grupo6ProgramacionCS\Arreglo1\bin\Debug\net10.0\Arreglo1.deps.json
+C:\Grupo6ProgramacionCS\Arreglo1\bin\Debug\net10.0\Arreglo1.runtimeconfig.json
+C:\Grupo6ProgramacionCS\Arreglo1\bin\Debug\net10.0\Arreglo1.dll
+C:\Grupo6ProgramacionCS\Arreglo1\bin\Debug\net10.0\Arreglo1.pdb
+C:\Grupo6ProgramacionCS\Arreglo1\obj\Debug\net10.0\Arreglo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Grupo6ProgramacionCS\Arreglo1\obj\Debug\net10.0\Arreglo1.AssemblyInfoInputs.cache
+C:\Grupo6ProgramacionCS\Arreglo1\obj\Debug\net10.0\Arreglo1.AssemblyInfo.cs
+C:\Grupo6ProgramacionCS\Arreglo1\obj\Debug\net10.0\Arreglo1.csproj.CoreCompileInputs.cache
+C:\Grupo6ProgramacionCS\Arreglo1\obj\Debug\net10.0\Arreglo1.sourcelink.json
+C:\Grupo6ProgramacionCS\Arreglo1\obj\Debug\net10.0\Arreglo1.dll
+C:\Grupo6ProgramacionCS\Arreglo1\obj\Debug\net10.0\refint\Arreglo1.dll
+C:\Grupo6ProgramacionCS\Arreglo1\obj\Debug\net10.0\Arreglo1.pdb
+C:\Grupo6ProgramacionCS\Arreglo1\obj\Debug\net10.0\Arreglo1.genruntimeconfig.cache
+C:\Grupo6ProgramacionCS\Arreglo1\obj\Debug\net10.0\ref\Arreglo1.dll
